@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>projeto-portafolio-yetzenia</title>
+</head>
+
+
+<header>
+<img src="C:\Users\rhom\Desktop\portafolioyetz/Background yetzenia portafoilo.png" alt="">
+</header>
+
+
+<div>
+<h2>Óla , sou</h2>
+<h1>YETZENIA GONZALEZ</h1> <h2> Estudante, Front-end developer</h2>
+</div>
+		
+	
+	
+<main>
+	<section>
+	<article>
+		<div><h2> Sobre mim </h2> </div>
+
+		
+		
+
+		<p>
+			<h3>Sou Venezuelana, tenho quasi 3 anos no Brasil e sou  de 
+			front-end na <a href="https://www.instagram.com/toti.diversidade/?hl=es">@toti.diversidade</a>
+			Eu sou muito estou muito feliz de ser una Toter e por fazer parte da turma #21 de de programação Front-end.Este é o inicio da minha carreira profissional ; esperando-me tornar uma desenvolvedora front-end de sucesso.</h3>	
+		</p>	
+			 
+		
+	</article>
+
+	</section>
+
+	<section>
+	
+		<div><h2>Projetos</h2></div>
+
+	
+
+		<aside>
+			<article>
+
+			
+			<h3>Estrutura HTML de receita</h3><img src="exercicio4/descarga.jpg"> <p> Realização de estrutura html de receita de bolo como exercicio de pratica da aula de HTML  curso de desenvolvedor Front-end do instituto Toti.
+			<a href="https://github.com/yetzenia/exercicio04html/commit/b46572a0b62adc0818305adad383a1e8feea798a#diff-8ea862f129ca553c98a93a8a8c913cd22a7bde6d24e560850fae72217b430bda" target="_blank">Receita de bolo no GitHub</a> </p> </article>
+		</aside>
+
+
+		<aside>
+			<article>
+
+			
+			<h3>Estrutura HTML de projeto de portafolio profissional</h3><img src="exercicio4/descarga.jpg"> <p> Realização de estrutura html de projeto de portafolio profissional como exercicio de pratica da aula de HTML  curso de desenvolvedor Front-end do instituto Toti.
+			<a href="https://github.com/yetzenia/exercicio04html/commit/b46572a0b62adc0818305adad383a1e8feea798a#diff-8ea862f129ca553c98a93a8a8c913cd22a7bde6d24e560850fae72217b430bda" target="_blank">portafolio profissional no GitHub</a> </p> </article>
+		</aside>
+		
+	</section>
+
+
+<section>	
+<div><h2>Conocimientos técnicos y habilidades</h2></div>
+	
+	
+		<ul>
+		Html5<br>
+		Ccs3, Flexbox, Css Grid
+		Javascript, JQuery<br>
+		Responsive Web Design (Diseño adaptable)<br>
+		Desarrollo web basado en estándares W3C<br>
+		UX/UI - Experiencia de Usuario. Interfaz de Usuario.
+		Accesibilidad y Usabilidad<br>
+		Programas: Sublime text 3, Visual Studio Code, Dreamweaver CC, Photoshop CS6, Illustrator CS6, Inkscape<br>
+		Frameworks: Bootstrap 4<br>
+		Control de versiones: Git/GitHub</ul>
+	</section>
+
+
+</main>
+	<div><h3>Contato</h3></div>
+<footer>
+
+	<nav>
+        
+        <ul>  
+    	<li>
+    	    <a href="https://github.com/yetzenia"target="_blank">Github</a> </li> 
+     <li>      
+       <a href="k"target="_blank">Instagram</a>
+       </li>
+       <li>
+    	    <a href="https://"target="_blank">Facebook</a> </li> 
+    	<li>
+    	    <a href="https:"target="_blank">Twitter</a> </li>     
+        </ul>     
+       
+       </nav> 
+
+
+
+</footer>
+
+</body>
+</html>
+
